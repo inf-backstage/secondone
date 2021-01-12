@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "secondone"
+  description: "secondone example description"
+  annotations:
+    github.com/project-slug: "inf-backstage/secondone"
+    backstage.io/techdocs-ref: github:https://github.com/inf-backstage/secondone
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "venkataru"

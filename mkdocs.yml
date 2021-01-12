@@ -1,0 +1,8 @@
+site_name: "secondone"
+site_description: "secondone example description"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
